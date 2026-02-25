@@ -1,2 +1,4 @@
 # algo-programing-p2
-repository with all laboratory works
+лабораторна робота №1
+варіант 1 рівень 3
+курач тарас
